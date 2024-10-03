@@ -1,0 +1,5 @@
+.site-logo img {
+    width: 150px; /* Adjust this value as needed */
+    height: auto; /* Maintain the aspect ratio */
+    border-radius: 50%; /* Optional: Make the logo circular */
+}

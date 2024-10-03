@@ -1,3 +1,5 @@
 title: Vidhi Kumar
 logo: /assets/images/portfolio-pic.jpeg
 theme:  jekyll-theme-minimal
+
+include: ["assets/css/custom.css"]
