@@ -1,10 +1,4 @@
 # vidhi-kumar.github.io
-# Streamlit Professional Experience & Projects App
-
-This Streamlit application displays my professional experience and projects, providing insights into my skills, achievements, and contributions. The application includes interactive project previews and details about my work in software engineering, API development, and data analysis.
-
-## Features
-
 ### 1. Professional Experience
 
 #### Persistent Systems Limited
