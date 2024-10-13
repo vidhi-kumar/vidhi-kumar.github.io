@@ -3,8 +3,7 @@
 
 #### Persistent Systems Limited
 - **Senior Software Engineer**  
-  Automated ETL process to extract, transform, and load data from cloud platforms (Teams, Zoom) using AWS S3, Google BigQuery, and Azure Consumption APIs.  
-  Achievements:
+  - Automated ETL process to extract, transform, and load data from cloud platforms (Teams, Zoom)  using AWS S3, Google BigQuery, and Azure Consumption APIs.  
   - Reduced critical data processing time from 46 hours to 6 hours through optimization.
   - Managed web portals delivering live summarized graphs and reports for clients.
 
