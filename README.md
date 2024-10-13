@@ -22,6 +22,12 @@
 
 ### 2. Projects
 
+#### AI-Powered GitHub Contributions Summarizer
+- Summarizes a user's contributions across all public GitHub repositories using Python, Streamlit, and Langchain. 
+- It retrieves data via GitHub tokens from pull requests, issues, and README files. Users can customize the number of lines and specify expertise. 
+- The data is processed through OpenAI tokens to generate concise, repo-wise summaries, with an option to download the report as a Word document.
+- [View Hosted Project](https://gitcontributions.streamlit.app/)
+
 #### Global Trends with Olympic Data
 - Explored and visualized Olympic data (1896-2024) to reveal trends and insights.
 - Tools used: **Python, Pandas, Matplotlib**.
