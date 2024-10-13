@@ -3,9 +3,9 @@
 
 #### Persistent Systems Limited
 - **Senior Software Engineer**  
-  - Automated ETL process to extract, transform, and load data from cloud platforms (Teams, Zoom)  using AWS S3, Google BigQuery, and Azure Consumption APIs.  
-  - Reduced critical data processing time from 46 hours to 6 hours through optimization.
-  - Managed web portals delivering live summarized graphs and reports for clients.
+  - Contributed to a fully automated ETL process for usage analytics across platforms like Teams, Zoom, PSTN, using API calls to AWS S3, Google BigQuery, and Azure Consumption, processing data from lakehouses like Databricks and Snowflake. 
+  - Implemented efficient data transformation with PySpark, applying business logic for rule changes and cost center allocation while managing dynamic metadata.
+  - Executed data loading via SQL Loader and managed a web portal that provided clients with live, summarized graphs and reports for real-time insights.
 
 - **Software Engineer**  
   Tangoe Usage Management project: Processed call records and generated invoices for over 25 clients.  
