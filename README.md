@@ -29,8 +29,8 @@
 - [View Hosted Project](https://gitcontributions.streamlit.app/)
 
 #### Global Trends with Olympic Data
-- Explored and visualized Olympic data (1896-2024) to reveal trends and insights.
-- Tools used: **Python, Pandas, Matplotlib**.
+- Analysed and visualised Olympic data (1896-2024) using Python, Pandas, and Matplotlib to uncover global world trends. 
+- This data analysis project aimed to reveal insights into the evolution of nations through their Olympic involvement, presenting findings with clear visualisations in a Jupyter notebook.
 - [View Project](https://github.com/vidhi-kumar/olympic-insights/blob/main/olympics-analysis.ipynb)
 
 #### API Playground
