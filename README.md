@@ -1,5 +1,5 @@
 # vidhi-kumar.github.io
-## 1. Professional Experience
+## Professional Experience
 
 ### Persistent Systems Limited
 #### Senior Software Engineer
@@ -20,7 +20,7 @@
 #### Backend Developer Intern
   - Created client experience software using Node.js, Express, PostgreSQL, and AWS Lambda for REST API development.
 
-## 2. Projects
+## Projects
 
 ### AI-Powered GitHub Contributions Summarizer
 - Summarizes a user's contributions across all public GitHub repositories using Python, Streamlit, and Langchain. 
