@@ -2,10 +2,10 @@
 ### 1. Professional Experience
 
 #### Persistent Systems Limited
-- **Senior Software Engineer**  
-  Contributed to a fully automated ETL process for usage analytics across platforms like Teams, Zoom, PSTN, using API calls to AWS S3, Google BigQuery, and Azure Consumption, processing data from lakehouses like Databricks and Snowflake. 
-  Implemented efficient data transformation with PySpark, applying business logic for rule changes and cost center allocation while managing dynamic metadata.
-  Executed data loading via SQL Loader and managed a web portal that provided clients with live, summarized graphs and reports for real-time insights.
+##### Senior Software Engineer
+- Contributed to a fully automated ETL process for usage analytics across platforms like Teams, Zoom, PSTN, using API calls to AWS S3, Google BigQuery, and Azure Consumption, processing data from lakehouses like Databricks and Snowflake. 
+- Implemented efficient data transformation with PySpark, applying business logic for rule changes and cost center allocation while managing dynamic metadata.
+- Executed data loading via SQL Loader and managed a web portal that provided clients with live, summarized graphs and reports for real-time insights.
 
 - **Software Engineer**  
   - Part of the Tangoe call detail records usage management team, processing call records and generating detailed invoices categorizing calls into different sections for internal billing by the client teams. Achieved over 85% improvement in critical data processing through SQL Loader code optimization, reducing time from 46 hours to 6 hours.  
