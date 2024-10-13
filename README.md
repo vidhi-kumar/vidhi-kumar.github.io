@@ -8,10 +8,10 @@
   - Executed data loading via SQL Loader and managed a web portal that provided clients with live, summarized graphs and reports for real-time insights.
 
 - **Software Engineer**  
-  Tangoe Usage Management project: Processed call records and generated invoices for over 25 clients.  
-  - Applied EDA and time series analysis to uncover patterns in call duration and peak hours.  
-  - Developed Sports Inventory Management APIs for Proof of Concept using FastAPI and JWT authentication.  
-  - Worked on sentiment analysis using MLOps, achieving 86% accuracy in a Proof of Concept.
+  - Part of the Tangoe call detail records usage management team, processing call records and generating detailed invoices categorizing calls into different sections for internal billing by the client teams. Achieved over 85% improvement in critical data processing through SQL Loader code optimization, reducing time from 46 hours to 6 hours.  
+  - Applied EDA and time series analysis on Call Data Records to determine patterns in call duration and peak hours, uncovering evolving call trends over different time intervals.
+  - Developed Sports Inventory Management APIs for a client’s Proof of Concept, utilizing Docker containerization for easy local deployment and connecting to a relational database. Implemented FastAPI for API creation, Swagger for documentation, and secured access with JWT token authentication.
+  - Achieved 86% accuracy in an MLOps-driven sentiment analysis Proof of Concept using Twitter data, incorporating distributed data processing, model training, reproducibility, and deployment.
 
 - **Mentorship Program**  
   Contributed to the development of privacy-preserving machine learning models for skin cancer detection using federated learning.
